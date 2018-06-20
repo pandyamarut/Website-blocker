@@ -1,6 +1,6 @@
 # Website-blocker
 
-# Application WITH LESS THAN 30 LINES OF CODE
+# Application WITH SHORT CODE BASE
  which is used to block the websites. website_blocking is time bound 
  which makes working hours efficient for the employees who're addicted to surfing otherwise,or it 
  can also be used as parental control,restricting children from accessing influencial or adult content from the web. 
