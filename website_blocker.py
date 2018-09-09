@@ -1,4 +1,4 @@
-import timeeee
+import time
 from datetime import datetime as dt
 
 hosts_temp=r"D:\Dropbox\pp\block_websites\Demo\hosts"
