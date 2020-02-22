@@ -1,4 +1,4 @@
-# website-blocker
+# Website-blocker
 
 # Application 
  Which is used to block the websites. website_blocking is time bound 
